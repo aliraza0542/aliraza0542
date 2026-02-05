@@ -3,18 +3,26 @@
 <h3 align="center">Learning AI, ML, and LLMs 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI+%26+ML+Learner;Problem+Solver;Software+Enthusiast&center=true&width=500">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI+%26+ML+Learner;Problem+Solver;Full-Stack+Development+%26+Android+Development&center=true&width=650">
 </p>
-
 ---
+## 🌐 Connect With Me
 
-## 👨‍💻 About Me
+📧 **Reach me at:** **fastian.0542@gmail.com**
 
-- 🎓 Bachelor's student in **Computer Science** at **FAST-NUCES**
-- 🧠 Passionate about **AI, Machine Learning, and Large Language Models**
-- 💻 Interested in **Software Design, Full-Stack Development, and Android Development**
-- 🚀 Strong problem-solving mindset with hands-on project experience
+<p align="left">
+  <a href="https://www.linkedin.com/in/ali-raza-0aa751361" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
 
+  <a href="https://www.instagram.com/rz0542" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
+  </a>
+
+  <a href="https://leetcode.com/u/aliraza0542/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+  </a>
+</p>
 ---
 
 <p align="left">
@@ -50,23 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40"/>
 </p>
 
----
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ali-raza-0aa751361" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-
-  <a href="https://www.instagram.com/rz0542" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
-  </a>
-
-  <a href="https://leetcode.com/u/aliraza0542/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
-  </a>
-</p>
----
 
 ## 📊 GitHub Stats
 
