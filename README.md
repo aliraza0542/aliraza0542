@@ -32,6 +32,7 @@
   </a>
 </p>
 ---
+### 🛠️ Tech Stack
 
 <p align="left">
   <!-- Programming Languages -->
