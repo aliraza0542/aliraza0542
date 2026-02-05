@@ -32,7 +32,7 @@
   </a>
 </p>
 ---
-<h1> 🛠️ Tech Stack </h1>
+<h3>🛠️Tech Stack </h3>
 
 <p align="left">
   <!-- Programming Languages -->
