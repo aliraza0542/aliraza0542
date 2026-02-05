@@ -32,7 +32,7 @@
   </a>
 </p>
 ---
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <!-- Programming Languages -->
