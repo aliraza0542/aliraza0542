@@ -7,15 +7,25 @@
 </p>
 
 ---
+## 🌐 Connect With Me
 
-## 👨‍💻 About Me
+📧 **Reach me at:** **fastian.0542@gmail.com**
 
-- 🎓 Bachelor's student in **Computer Science** at **FAST-NUCES**
-- 🧠 Passionate about **AI, Machine Learning, and Large Language Models**
-- 💻 Interested in **Software Design, Full-Stack Development, and Android Development**
-- 🚀 Strong problem-solving mindset with hands-on project experience
+<p align="left">
+  <a href="https://www.linkedin.com/in/ali-raza-0aa751361" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
 
+  <a href="https://www.instagram.com/rz0542" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
+  </a>
+
+  <a href="https://leetcode.com/u/aliraza0542/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+  </a>
+</p>
 ---
+
 
 <p align="left">
   <!-- Programming Languages -->
@@ -50,37 +60,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40"/>
 </p>
 
----
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ali-raza-0aa751361" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-
-  <a href="https://www.instagram.com/rz0542" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
-  </a>
-
-  <a href="https://leetcode.com/u/aliraza0542/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
-  </a>
-</p>
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHassan05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliraza0542&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHassan05&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza0542&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MHassan05&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=aliraza0542&color=blue" />
 </p>
 
