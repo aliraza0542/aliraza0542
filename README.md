@@ -5,6 +5,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI+%26+ML+Learner;Problem+Solver;Full-Stack+Development+%26+Android+Development&center=true&width=650">
 </p>
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor's student in **Computer Science** at **FAST-NUCES**
+- 🧠 Passionate about **AI, Machine Learning, and Large Language Models**
+- 💻 Interested in **Software Design, Full-Stack Development, and Android Development**
+- 🚀 Strong problem-solving mindset with hands-on project experience
+
 ---
 ## 🌐 Connect With Me
 
@@ -57,21 +65,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40"/>
 </p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliraza0542&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza0542&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliraza0542&color=blue" />
-</p>
-
